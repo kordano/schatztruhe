@@ -2,7 +2,8 @@
   "name": "schatztruhe",
   "version": "0.0.1",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "react": "^0.13.3"
   },
   "description": "A finance application",
   "main": "index.js",
