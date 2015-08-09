@@ -11,6 +11,7 @@ A web service for organizing your domestic resources.
 **** Usage
 Install =node.js= and =npm=. Run with
 #+BEGIN_SRC Bash
+npm install
 node server.js
 #+END_SRC
 Go to [[localhost:3000][localhost:3000]]
