@@ -1,0 +1,23 @@
+#+TITLE: Schatztruhe
+#+CATEGORY: Schatztruhe
+#+STARTUP: overview 
+#+STARTUP: hidestars
+#+PROPERTY: Assigned_to_ALL kordano
+#+OPTIONS: d:nil
+**** Overview
+     
+A web service for organizing your domestic resources. 
+
+**** Usage
+Install =node.js= and =npm=. Run with
+#+BEGIN_SRC Bash
+node server.js
+#+END_SRC
+Go to [[localhost:3000][localhost:3000]]
+**** License
+
+Copyright © 2015 Konrad Kühne
+
+Distributed under the Eclipse Public License either version 1.0 or (at
+your option) any later version.
+
